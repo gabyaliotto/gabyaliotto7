@@ -1,1 +1,6 @@
-# gabyaliotto7
+Boas vindas ao meu perfil
+
+Meu nome é gaby aliotto
+
+Estou estudando no ALURA
+
